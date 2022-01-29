@@ -1,5 +1,7 @@
 <h1 align="center">Web Developer Roadmap 2022</h1>
 
+![alt text](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.jpeg)
+
 Web Developer Roadmap 2022 is a learning path to understand web development, including frontend, backend and cloud(AWS).
 
 ## How to Learn Web development?
@@ -35,7 +37,7 @@ It also includes overview about cloud(AWS) and some information about server.
     - Create merge request
 
 #### References
-* Introduction to version control: [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
+* [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
 * How to use git
     -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
@@ -43,7 +45,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### Practical 1.2
 * UI Design
-    - Design static UI given in the [link]()
+    - Design static UI given in the [link](https://github.com/canopas/web-developer-roadmap/blob/master/images/static.png)
     - Design responsive UI given in the [link](https://www.w3schools.com/w3css/tryw3css_templates_food_blog.htm)
 
 #### References
