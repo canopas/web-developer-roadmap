@@ -18,12 +18,12 @@ It also includes overview about cloud(AWS) and some information about server.
 
 # Table of contents
 
-- [Sprint 1](https://github.com/canopas/web-developer-roadmap#sprint-1)
-- [Sprint 2](https://github.com/canopas/web-developer-roadmap#sprint-2)
-- [Sprint 3](https://github.com/canopas/web-developer-roadmap#sprint-3)
-- [Sprint 4](https://github.com/canopas/web-developer-roadmap#sprint-4)
-- [Sprint 5](https://github.com/canopas/web-developer-roadmap#sprint-5)
-- [Sprint 6](https://github.com/canopas/web-developer-roadmap#sprint-6)
+- [Sprint 1](https://github.com/canopas/web-developer-roadmap#sprint-1---version-control-basic-web-technologies-and-coding-conventions)
+- [Sprint 2](https://github.com/canopas/web-developer-roadmap#sprint-2---docker-databases-and-php)
+- [Sprint 3](https://github.com/canopas/web-developer-roadmap#sprint-3---golang)
+- [Sprint 4](https://github.com/canopas/web-developer-roadmap#sprint-4---nodejs)
+- [Sprint 5](https://github.com/canopas/web-developer-roadmap#sprint-5---vuejs)
+- [Sprint 6](https://github.com/canopas/web-developer-roadmap#sprint-6---useful-concepts)
 
 ## Sprint 1 - Version control, Basic web technologies and coding conventions
 
@@ -192,7 +192,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### Practical 3.1
 
-- Implement APIs for music application with [given requirements](https://github.com/canopas/web-developer-roadmap/music_app.md)
+- Implement APIs for music application with [given requirements](https://github.com/canopas/web-developer-roadmap/blob/master/music_app.md)
 
 #### References
 
@@ -253,7 +253,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### Practical 4.2
 
-- Implement an [Ecommerce Web application](https://github.com/canopas/web-developer-roadmap/ECOMMERCEAPP.md) with given requirements
+- Implement an [Ecommerce Web application](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app.md) with given requirements
 
 #### References
 
