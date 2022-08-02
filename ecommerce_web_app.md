@@ -1,6 +1,7 @@
 # E-commerce Web App
 
-* Recommended Framework express.js
+* Recommended Framework express.js. 
+* You can use [typeScript/javaScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html), whatever you prefer.
 
 ### Web app will have two type of users :
 

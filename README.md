@@ -1,12 +1,12 @@
 <h1 align="center">Web Developer Roadmap 2022</h1>
 
-![alt text](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.jpeg)
+![web roadmap](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.jpeg)
 
 Web Developer Roadmap 2022 is a learning path to understand web development, including frontend, backend and cloud(AWS).
 
 ## How to Learn Web development?
 
-In web development, there are mainly four ends mainly.
+In web development, there are mainly four ends.
 
 1. Backend
 2. Frontend
@@ -30,7 +30,7 @@ It also includes overview about cloud(AWS) and some information about server.
 #### Practical 1.1
 
 - Perform following operations in gitlab
-  - Create a project, create a repository to GitLab
+  - Create a repository to GitLab
   - Add new files into a git repository
   - Modify some files and commit them into a git repository
   - Push in a git repository
@@ -42,7 +42,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### References
 
-- [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
+- [What Is Version Control?](https://about.gitlab.com/topics/version-control/)
 - How to use git
   - [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
   - [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
@@ -102,15 +102,15 @@ It also includes overview about cloud(AWS) and some information about server.
 
 - [What is docker](https://opensource.com/resources/what-docker)
 - [Getting started with docker](https://docs.docker.com/get-started/overview/)
-- [Install MySQL using Docker](https://www.softwaretestinghelp.com/mysql-docker/)
-- [Install MongoDB using Docker](https://www.bmc.com/blogs/mongodb-docker-container/)
+- [Install MySQL using Docker](https://hub.docker.com/_/mysql)
+- [Install MongoDB using Docker](https://hub.docker.com/_/mongo/)
 
 #### Practical 2.2
 
-- Perform following queriesin MySQL
+- Perform following queries in MySQL
 
   - Create a table named `students` with fields id, first_name, last_name, standard, percentage, interest, etc... and insert data into it
-  - Create table `student_attendances` with fields id, created_at, P/A fields and insert data into it
+  - Create table `student_attendances` with fields id, created_at, presence/absence fields and insert data into it
   - Prepare queries to find student's presence/absence on a particular day
   - Find total absence/presence of every student
   - Find absent students with a percentage lower than 70.
@@ -174,7 +174,7 @@ It also includes overview about cloud(AWS) and some information about server.
 - $\_SESSION
 - $\_COOKIE
 
-### Advanced options
+#### Advanced options
 
 - Interfaces
 - Traits
@@ -182,7 +182,7 @@ It also includes overview about cloud(AWS) and some information about server.
 - Composer
 - php.ini tweaks
 
-### Keywords
+#### Keywords
 
 - Private
 - Public
@@ -193,8 +193,6 @@ It also includes overview about cloud(AWS) and some information about server.
 #### Practical 3.1
 
 - Implement APIs for music application with [given requirements](https://github.com/canopas/web-developer-roadmap/blob/master/music_app.md)
-
-#### References
 
 #### Basic concepts
 
@@ -243,7 +241,7 @@ It also includes overview about cloud(AWS) and some information about server.
 - [null value handler](https://github.com/guregu/null/tree/v3.5.0)
 - [JWT](https://github.com/dgrijalva/jwt-go)
 - [socket.io](https://github.com/googollee/go-socket.io)
-- [sentry logging](https://github.com/evalphobia/logrus_sentry)
+- [sentry](https://github.com/evalphobia/logrus_sentry)
 
 ## Sprint 4 - Node.js
 
@@ -276,7 +274,7 @@ It also includes overview about cloud(AWS) and some information about server.
   - Node mailer to send emails
 
 - Express.js
-  - [Installtion](https://expressjs.com/en/starter/installing.html)
+  - [Installation](https://expressjs.com/en/starter/installing.html)
   - [Express Generator](https://expressjs.com/en/starter/generator.html)
   - [Routing](https://expressjs.com/en/starter/basic-routing.html)
   - [Host static files](https://expressjs.com/en/starter/static-files.html)
