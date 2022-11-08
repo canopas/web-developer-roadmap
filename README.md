@@ -115,7 +115,7 @@ It also includes overview about cloud(AWS) and some information about server.
   - Find total absence/presence of every student
   - Find absent students with a percentage lower than 70.
 
-- Perform following queries in MongoDB
+- Perform following queries in MongoDB (Can use [MongoDBPlayground](https://mongoplayground.net/) to peform queries)
   - Create a collection named `students` with fields id, first_name, last_name, standard, percentage, interest, etc... and insert data into it
   - Form a query to find students with a percentage lower than 70 and interest in sport.
   - Count the total students with a percentage above 70
