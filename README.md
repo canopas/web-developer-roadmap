@@ -285,7 +285,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### Practical 5.1
 
-- Implement an [Ecommerce App using Vue.js](https://github.com/canopas/web-developer-roadmap/ECOMMERCEAPP.md) with given requirements
+- Implement frontend of [Ecommerce App using Vue.js](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app.md) with given requirements
 
 #### References
 
