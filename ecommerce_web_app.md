@@ -1,7 +1,15 @@
 # E-commerce Web App
 
-* Recommended Framework express.js. 
 * You can use [typeScript/javaScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html), whatever you prefer.
+
+## NodeJS
+* Recommended Framework express.js.
+* You need to build APIs and Frontend of given APP.
+
+## VueJS
+* You need to build Frontend only using NodeJS APIs from sprint4.
+
+## Requirements
 
 ### Web app will have two type of users :
 
