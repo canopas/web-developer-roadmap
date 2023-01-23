@@ -82,6 +82,11 @@ It also includes overview about cloud(AWS) and some information about server.
   - [Bootstrap from Frontend libraries in Free Code Camp](https://www.freecodecamp.org/)
   - [Finish Responsive web design certification course from Free Code Camp](https://www.freecodecamp.org/)
 
+- Code formatting and best practices
+  - [25 Most Used VS Code Shortcuts](https://www.crio.do/blog/vs-code-shortcuts/)
+  - [Code formatting in VS Code](https://mkyong.com/vscode/how-to-format-source-code-in-visual-studio-code-vscode/)
+  - [Web development best practices](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+
 
 ### Practical 1.3
 
@@ -159,6 +164,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 - [PHP: Language Reference](https://www.php.net/manual/en/langref.php)
 - [PHP: Introduction](https://www.w3schools.com/php/)
+- [Coding standard](https://flowframework.readthedocs.io/en/stable/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html)
 
 #### Basic Concepts
 
@@ -227,6 +233,8 @@ It also includes overview about cloud(AWS) and some information about server.
 - Arrays and slices
 - Pointers, structs, and methods
 - Error handling
+- [gofmt](https://go.dev/blog/gofmt)
+- [Best practicies](https://go.dev/talks/2013/bestpractices.slide#20)
 
 - Others
   - [JWT](https://jwt.io/introduction)
@@ -294,6 +302,7 @@ It also includes overview about cloud(AWS) and some information about server.
   - [Ref](https://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/)
   - [Event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
   - Node mailer to send emails
+  - [Best practices](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 
 - Express.js
   - [Installation](https://expressjs.com/en/starter/installing.html)
