@@ -1,16 +1,16 @@
-<h1 align="center">Web Developer Roadmap 2022</h1>
+<h1 align="center">Web Developer Roadmap 2023</h1>
 
-![web roadmap](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.jpeg)
+![web roadmap](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.png)
 
-Web Developer Roadmap 2022 is a learning path to understand web development, including frontend, backend and cloud(AWS).
+Web Developer Roadmap 2023 is a learning path to understand web development, including frontend, backend and cloud(AWS).
 
 ## How to Learn Web development?
 
-In web development, there are mainly four ends.
+A web development can be divided into four different parts,
 
-1. Backend
-2. Frontend
-3. Database
+1. Database
+2. Backend
+3. Frontend
 4. Cloud(server)
 
 This roadmap consists of widely used technologies/frameworks for frontend and backend.
@@ -18,29 +18,43 @@ It also includes overview about cloud(AWS) and some information about server.
 
 # Table of contents
 
-- [Sprint 1](https://github.com/canopas/web-developer-roadmap#sprint-1---version-control-basic-web-technologies-and-coding-conventions)
-- [Sprint 2](https://github.com/canopas/web-developer-roadmap#sprint-2---docker-databases-and-php)
-- [Sprint 3](https://github.com/canopas/web-developer-roadmap#sprint-3---golang)
-- [Sprint 4](https://github.com/canopas/web-developer-roadmap#sprint-4---nodejs)
-- [Sprint 5](https://github.com/canopas/web-developer-roadmap#sprint-5---vuejs)
-- [Sprint 6](https://github.com/canopas/web-developer-roadmap#sprint-6---useful-concepts)
+- [Sprint 1 - Basic linux commands, Version control, Web technologies and coding conventions](https://github.com/canopas/web-developer-roadmap#sprint-1---version-control-basic-web-technologies-and-coding-conventions)
+- [Sprint 2 - Docker, Databases and PHP](https://github.com/canopas/web-developer-roadmap#sprint-2---docker-databases-and-php)
+- [Sprint 3 - Golang](https://github.com/canopas/web-developer-roadmap#sprint-3---golang)
+- [Sprint 4 - Node.js](https://github.com/canopas/web-developer-roadmap#sprint-4---nodejs)
+- [Sprint 5 - Vue.js](https://github.com/canopas/web-developer-roadmap#sprint-5---vuejs)
+- [Sprint 6 - Useful concepts](https://github.com/canopas/web-developer-roadmap#sprint-6---useful-concepts)
 
-## Sprint 1 - Version control, Basic web technologies and coding conventions
+## Sprint 1 - Basic linux commands, Version control, Web technologies and coding conventions
 
-#### Practical 1.1
+### Practical 1.1 - Basic commands and Version control
+
+- Write a commands for following operations in terminal
+  - List all files with details in directory
+  - Give only read permission to any file
+  - Give all read and write permissions to any file
+  - Get IP address of own pc
+  - Observe disk space usage
+  - View previously executed commands history
+  - Linux command to install/uninstall PHP
+  - Linux command to start/stop mysql service
+  - Write and save any file from terminal
 
 - Perform following operations in gitlab
   - Create a repository to GitLab
-  - Add new files into a git repository
-  - Modify some files and commit them into a git repository
+  - Check git status of repository
+  - Commit new/updated files into a git repository
   - Push in a git repository
-  - Create Commits, tags, and branches
+  - Pull new changes from repository
   - Checkout new branch
   - Merge branch into another
-  - Rebase
+  - Rebase and Squash
   - Create merge request
+  - Write a command to clone [this](https://github.com/canopas/web-developer-roadmap) repo
 
 #### References
+
+- [Basic linux commands](https://www.digitalocean.com/community/tutorials/linux-commands)
 
 - [What Is Version Control?](https://about.gitlab.com/topics/version-control/)
 - How to use git
@@ -48,11 +62,11 @@ It also includes overview about cloud(AWS) and some information about server.
   - [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
   - [Git commands](https://dzone.com/articles/top-20-git-commands-with-examples)
 
-#### Practical 1.2
+### Practical 1.2 - Basic web technologies with coding conventions
 
-- UI Design
-  - Design static UI given in the [link](https://github.com/canopas/web-developer-roadmap/blob/master/images/static.png)
-  - Design responsive UI given in the [link](https://www.w3schools.com/w3css/tryw3css_templates_food_blog.htm)
+- UI design with coding standards
+  - Design static UI given in the [link](https://github.com/canopas/web-developer-roadmap/blob/master/images/static.png) 
+  - Design responsive UI given in the [link](https://www.w3schools.com/w3css/tryw3css_templates_food_blog.htm) 
 
 #### References
 
@@ -64,11 +78,17 @@ It also includes overview about cloud(AWS) and some information about server.
 - CSS3
   - [Web development bootcamp course on udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12299746?start=0#overview) - section 4 and 5
   - [Bootstrap from Web development bootcamp course on udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12299746?start=0#overview) - section 6 and 8
+  - [What is Flexbox?](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Bootstrap from Frontend libraries in Free Code Camp](https://www.freecodecamp.org/)
-  - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Finish Responsive web design certification course from Free Code Camp](https://www.freecodecamp.org/)
 
-#### Practical 1.3
+- Code formatting and best practices
+  - [25 Most Used VS Code Shortcuts](https://www.crio.do/blog/vs-code-shortcuts/)
+  - [Code formatting in VS Code](https://mkyong.com/vscode/how-to-format-source-code-in-visual-studio-code-vscode/)
+  - [Web development best practices](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+
+
+### Practical 1.3
 
 - Unit converter
   - Create a unit converter that should take input from users and output the value in the asked unit (conversion units can be centimeters, meters, and kilometers)
@@ -93,7 +113,7 @@ It also includes overview about cloud(AWS) and some information about server.
 
 ## Sprint 2 - Docker, Databases and PHP
 
-#### Practical 2.1
+### Practical 2.1
 
 - Install MySQL using Docker
 - Install MongoDB using Docker
@@ -105,15 +125,19 @@ It also includes overview about cloud(AWS) and some information about server.
 - [Install MySQL using Docker](https://hub.docker.com/_/mysql)
 - [Install MongoDB using Docker](https://hub.docker.com/_/mongo/)
 
-#### Practical 2.2
+### Practical 2.2
 
 - Perform following queries in MySQL
 
   - Create a table named `students` with fields id, first_name, last_name, standard, percentage, interest, etc... and insert data into it
   - Create table `student_attendances` with fields id, created_at, presence/absence fields and insert data into it
+  - Create a table named `teachers` with fields id, first_name, last_name, subject, interests etc... and insert data into it
+  - Create table `teachers_attendances` with fields id, created_at, presence/absence fields and insert data into it
   - Prepare queries to find student's presence/absence on a particular day
   - Find total absence/presence of every student
   - Find absent students with a percentage lower than 70.
+  - Find a student who has higest presence
+  - Get all student's and teacher's first_name, last_name, full_name, interest, standard, subject and total absence.
 
 - Perform following queries in MongoDB (Can use [MongoDBPlayground](https://mongoplayground.net/) to peform queries)
   - Create a collection named `students` with fields id, first_name, last_name, standard, percentage, interest, etc... and insert data into it
@@ -123,22 +147,24 @@ It also includes overview about cloud(AWS) and some information about server.
 #### References
 
 - [Web Development Bootcamp course udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12299746?start=0#overview) - section 24 and 25
+- [Mysql Subquery](https://www.mysqltutorial.org/mysql-subquery/) and [Union query](https://www.mysqltutorial.org/sql-union-mysql.aspx)
 
-#### Practical 2.3
+### Practical 2.3
 
-- Create a Blog application with following requirements
+- Create a Blog application with following requirements using PHP
   - It should have two sides
     - 1. Admin
     - 2. User
   - Implement Register and login functionality for both user and admin
   - Admin can add posts ( post fields - title, description, created_date, author, category, image )
   - Admin can decide which user can see the post
-  - Added Posts will be visible on user side (latest posts first)
+  - Added Posts will be visible on user side (latest first)
 
 #### References
 
 - [PHP: Language Reference](https://www.php.net/manual/en/langref.php)
 - [PHP: Introduction](https://www.w3schools.com/php/)
+- [Coding standard](https://flowframework.readthedocs.io/en/stable/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html)
 
 #### Basic Concepts
 
@@ -190,9 +216,9 @@ It also includes overview about cloud(AWS) and some information about server.
 
 ## Sprint 3 - Golang
 
-#### Practical 3.1
+### Practical 3.1
 
-- Implement APIs for music application with [given requirements](https://github.com/canopas/web-developer-roadmap/blob/master/music_app.md)
+- Implement [Music App](https://github.com/canopas/web-developer-roadmap/blob/master/music_app.md) with given requirements
 
 #### Basic concepts
 
@@ -207,6 +233,8 @@ It also includes overview about cloud(AWS) and some information about server.
 - Arrays and slices
 - Pointers, structs, and methods
 - Error handling
+- [gofmt](https://go.dev/blog/gofmt)
+- [Best practicies](https://go.dev/talks/2013/bestpractices.slide#20)
 
 - Others
   - [JWT](https://jwt.io/introduction)
@@ -245,33 +273,36 @@ It also includes overview about cloud(AWS) and some information about server.
 
 ## Sprint 4 - Node.js
 
-#### Practical 4.1
+### Practical 4.1
 
 - Implement one-one real time chat application
 
-#### Practical 4.2
+### Practical 4.2
 
-- Implement an [Ecommerce Web application](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app.md) with given requirements
+- Implement an [Ecommerce App](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app_backend.md) with given requirements
 
 #### References
 
+- [yarn](https://classic.yarnpkg.com/en/docs/getting-started)
 - [npm](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/)
+- [yarn vs npm](https://www.knowledgehut.com/blog/web-development/yarn-vs-npm)
 - [node](https://nodejs.org/en/about/)
 - [Why node.js?](https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - Basic concepts:
-
+  - [CommonJS and ESModule](https://www.freecodecamp.org/news/modules-in-javascript/)
   - [Console](https://nodejs.org/api/console.html)
   - [Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
   - ['this' keyword part 1](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch1.md)
   - ['this' keyword part 2](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch2.md)
   - Understanding package.json
-  - Importing exporting require
+  - Import/export require
   - Callbacks
   - async-await
   - async.waterfall()
   - [Ref](https://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/)
   - [Event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
   - Node mailer to send emails
+  - [Best practices](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 
 - Express.js
   - [Installation](https://expressjs.com/en/starter/installing.html)
@@ -283,13 +314,16 @@ It also includes overview about cloud(AWS) and some information about server.
 
 ## Sprint 5 - Vue.js
 
-#### Practical 5.1
+### Practical 5.1
 
-- Implement frontend of [Ecommerce App using Vue.js](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app.md) with given requirements
+- Implement frontend of [Ecommerce App using Vue.js](https://github.com/canopas/web-developer-roadmap/blob/master/ecommerce_web_app_frontend.md) with given requirements
 
 #### References
 
 - [Get started with Vue.js](https://v3.vuejs.org/)
+- [Tailwind css for beginners](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+- [Tailwind css tutorial](https://tsh.io/blog/tailwind-css-tutorial/)
+- [Pinia](https://pinia.vuejs.org/introduction.html)
 
 - Concepts
   - What is vue.js ?
@@ -309,6 +343,7 @@ It also includes overview about cloud(AWS) and some information about server.
   - Component registration
   - Slots
   - Template refs
+  - State management
 
 ## Sprint 6 - Useful concepts
 
@@ -323,7 +358,7 @@ It also includes overview about cloud(AWS) and some information about server.
 - Server Login with Password/SSH Keys
 - IP tables
 - Php-fpm and httpd
-- Basic linux commands
+- SSH, SSL, certificates and keys
 
 #### Cloud
 

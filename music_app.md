@@ -4,9 +4,19 @@
 
 * Create a project that will enable admin or end-users to register and login to the app and can manage below data with golang and MYSQL(Recommended : gin framework).
 
-* There will be two types of authentications
-    - Admin - will have read and write access to data
-    - user - will only have read access to data (except favourite/unfavourite tracks feature)
+## Requirements
+
+### Technologies
+ - Gin framework
+ - Sqlx or Gorm
+ - JWT
+
+### Application will have two type of users :
+
+- Admin - Should have Read/Write access
+- User - Should have Read access only, except Favourite/Unfavourite functionality
+
+**Note:** Admin is also a user. Admin should have all access same as user. Additionally they can modify the content.
 
 ## Models
 
