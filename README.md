@@ -168,25 +168,25 @@ It also includes overview about cloud(AWS) and some information about server.
 
 #### Basic Concepts
 
-- Installation WAMP/MAMP/XAMPP
-- How it exactly works ?
-- Basic Syntax
-- Variables, Constants, Operators & Control Structures
-- Conditions, Loops, Switch cases
-- Arrays, String and various string functions
-- Functions
-- Includes & Required
-- Classes & Objects & Constructors
-- Namespaces
-- Extensions
-- Exceptions
-- JSON Encode & Decode
-- Sessions
-- Cookies
-- File Manipulation
-- Indexed Array vs Associative Array
-- Object vs stdObject
-- Timeout of PHP script
+- Installation WAMP/MAMP/XAMPP.
+- How it exactly works ?.
+- Basic Syntax.
+- Variables, Constants, Operators & Control Structures.
+- Conditions, Loops, Switch cases.
+- Arrays, String and various string functions.
+- Functions.
+- Includes & Required.
+- Classes & Objects & Constructors.
+- Namespaces.
+- Extensions.
+- Exceptions.
+- JSON Encode & Decode.
+- Sessions.
+- Cookies.
+- File Manipulation.
+- Indexed Array vs Associative Array.
+- Object vs stdObject.
+- Timeout of PHP script.
 
 #### Predefined variables
 
