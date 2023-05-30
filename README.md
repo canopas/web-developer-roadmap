@@ -2,7 +2,7 @@
 
 ![web roadmap](https://github.com/canopas/web-developer-roadmap/blob/master/images/title_image.png)
 
-Web Developer Roadmap 2023 is a learning path to understand web development, including frontend, backend and cloud(AWS).
+Web Developer Roadmap is a learning path to understand web development, including frontend, backend and cloud(AWS).
 
 ## How to Learn Web development?
 
